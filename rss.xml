@@ -1,40 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[RubberDuckDestroyer]]></title><description><![CDATA[A blog ranting (student) developer life.]]></description><link>https://blog.rubberduckdestroyer.dev</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 04 Sep 2019 09:56:18 GMT</lastBuildDate><item><title><![CDATA[Rubber Ducks Destroyed: 1]]></title><description><![CDATA[Welcome to RubberDuckDestroyer, a blog on being a (student) developer and taking a twist on Rubbber Duck Debugging. Before we kick off, here…]]></description><link>https://blog.rubberduckdestroyer.dev/hello-world/</link><guid isPermaLink="false">https://blog.rubberduckdestroyer.dev/hello-world/</guid><pubDate>Fri, 04 Sep 2015 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Welcome to RubberDuckDestroyer, a blog on being a (student) developer and taking a twist on &lt;a href=&quot;https://en.wikipedia.org/wiki/Rubber_duck_debugging&quot;&gt;Rubbber Duck Debugging&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Before we kick off, here’s the motto of rubberduck:&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[RubberDuckDestroyer]]></title><description><![CDATA[A blog ranting (student) developer life.]]></description><link>https://blog.rubberduckdestroyer.dev</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 06 Sep 2019 00:50:54 GMT</lastBuildDate><item><title><![CDATA[Hello there]]></title><description><![CDATA[Welcome to RubberDuckDestroyer, a blog on being a (student) developer and taking a twist on Rubbber Duck Debugging. Before we kick off, here…]]></description><link>https://blog.rubberduckdestroyer.dev/hello-world/</link><guid isPermaLink="false">https://blog.rubberduckdestroyer.dev/hello-world/</guid><pubDate>Fri, 04 Sep 2015 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Welcome to RubberDuckDestroyer, a blog on being a (student) developer and taking a twist on &lt;a href=&quot;https://en.wikipedia.org/wiki/Rubber_duck_debugging&quot;&gt;Rubbber Duck Debugging&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Before we kick off, here’s rubberduck’s motto :&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Challenge yourself!&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Rubberduck, 2019.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Always remember this while reading these blogs and sometimes, while living life.
-&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/2b40c/salty_egg.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEEBf/aAAwDAQACEAMQAAABgik0dXC//8QAGRABAAMBAQAAAAAAAAAAAAAAAQACEhEy/9oACAEBAAEFAkqW2DlnRj73yf/EABcRAQADAAAAAAAAAAAAAAAAAAAREkH/2gAIAQMBAT8B1WX/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQL/2gAIAQIBAT8Bi6f/xAAbEAABBAMAAAAAAAAAAAAAAAAAAQIRISIxMv/aAAgBAQAGPwK9GNocyS8hCj//xAAbEAADAQADAQAAAAAAAAAAAAABESEAMUGBof/aAAgBAQABPyGxNMfrLHmCDZmAzzvJJDjEQCHv/9oADAMBAAIAAwAAABDIL//EABYRAQEBAAAAAAAAAAAAAAAAAAERAP/aAAgBAwEBPxARhylZv//EABgRAAIDAAAAAAAAAAAAAAAAAAABESFR/9oACAECAQE/EFoktI//xAAdEAEBAAICAwEAAAAAAAAAAAABEQAxIWFBcYHh/9oACAEBAAE/EEbMLQ0fMHDVaPIXyI4pk4JUnWacNCtO8ojDE9TGIYES7/Jn/9k=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Chinese Salty Egg&quot;
-        title=&quot;Chinese Salty Egg&quot;
-        src=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/c739e/salty_egg.jpg&quot;
-        srcset=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/8ee9c/salty_egg.jpg 148w,
-/static/8058f3f26913fea3b6a89a73344fe94a/ebbe7/salty_egg.jpg 295w,
-/static/8058f3f26913fea3b6a89a73344fe94a/c739e/salty_egg.jpg 590w,
-/static/8058f3f26913fea3b6a89a73344fe94a/5413e/salty_egg.jpg 885w,
-/static/8058f3f26913fea3b6a89a73344fe94a/4efde/salty_egg.jpg 1180w,
-/static/8058f3f26913fea3b6a89a73344fe94a/2b40c/salty_egg.jpg 2048w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;Always remember this while reading the blogs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;First off, introductions.&lt;/strong&gt; Hello there, I’m rubberduck! A second year Comp Sci student in New Zealand. Nice to meet you, &amp;#x3C;&lt;em&gt;your-name-here&lt;/em&gt;&gt; and welcome to my blog.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://media.giphy.com/media/djRJNZqj508sE/giphy.gif&quot; alt=&quot;Hello There&quot;&gt;&lt;/p&gt;
+&lt;p&gt;In these blogs I talk about my experience with technologies, mostly self learnt. Both academic studies and the industry teach me something valuable but the best way for anyone working in technology to learn something is to learn everything by themselves! This took me out to the internet to learn a lot more about software and on the blog I’ll reproduce some of my learnings for anyone and everyone out there to read.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif&quot; alt=&quot;Tech Cat&quot;&gt;&lt;/p&gt;
+&lt;p&gt;The aim of everything I do right now is to &lt;strong&gt;challenge myself to become better than I was a day ago and constantly keep improving&lt;/strong&gt;. That being said, please take everything I say with a grain of salt as there’s a lot I have to learn as a young padawan in this industry.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://media.giphy.com/media/26DN48mfu3uWJ3J7y/giphy.gif&quot; alt=&quot;Young Padawan&quot;&gt;&lt;/p&gt;
+&lt;p&gt;And with that, I’ll end this first blog. Thank you for reading and see you in the next blog.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Note: All GIFs are from &lt;a href=&quot;https://giphy.com&quot;&gt;Giphy&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
