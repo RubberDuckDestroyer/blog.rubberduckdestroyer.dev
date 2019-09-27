@@ -1,7 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[RubberDuckDestroyer]]></title><description><![CDATA[A blog ranting (student) developer life.]]></description><link>https://blog.rubberduckdestroyer.dev</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 27 Sep 2019 05:23:14 GMT</lastBuildDate><item><title><![CDATA[Interview Questions 101]]></title><description><![CDATA[Recently, I had the opportunity to attend speed interviews through the Summer of Tech program. Along with this I also attended SOT’s Mock…]]></description><link>https://blog.rubberduckdestroyer.dev/interviews-101/</link><guid isPermaLink="false">https://blog.rubberduckdestroyer.dev/interviews-101/</guid><pubDate>Tue, 24 Sep 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Recently, I had the opportunity to attend speed interviews through the &lt;a href=&quot;&quot;&gt;Summer of Tech program&lt;/a&gt;. Along with this I also attended SOT’s Mock Interviews event to groom me well for speed interviews.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[RubberDuckDestroyer]]></title><description><![CDATA[A blog ranting (student) developer life.]]></description><link>https://blog.rubberduckdestroyer.dev</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 27 Sep 2019 07:38:39 GMT</lastBuildDate><item><title><![CDATA[Interview Questions 101]]></title><description><![CDATA[Recently, I had the opportunity to attend speed interviews through the Summer of Tech program. Along with this I also attended SOT’s Mock…]]></description><link>https://blog.rubberduckdestroyer.dev/interviews-101/</link><guid isPermaLink="false">https://blog.rubberduckdestroyer.dev/interviews-101/</guid><pubDate>Tue, 24 Sep 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Recently, I had the opportunity to attend speed interviews through the &lt;a href=&quot;https://summeroftech.co.nz&quot;&gt;Summer of Tech program&lt;/a&gt;. Along with this I also attended SOT’s Mock Interviews event to groom me well for speed interviews…but before that, here’s some cover art I drew for this!
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 85.49810844892812%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAIAAABSJhvpAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAD50lEQVQ4yy2Te0xbVRzHb2IGgzEebWnZwrNAGQxYtgSWsGgQ4jRzzikhRhJYY5Y50TgV0akxm9kqCtoFGZSMR4G+29velrW8HVhue9vS9rZAYOMpxJgOGMoMW8tt7/HesuT7xzm/cz6/8zvfc34Q0NnCwgBCyUqPYYyE0aVB++/jnokR9xKCBbUYFQ8hdoDY9jcArY3U2aAXJOwCqtmQcgaonSuDU3zs8UksULgYyl0FOZvBFjMVt4RUaAjGHhscSybnDpUFtkJh0hkwjK3NfbD08D2gHzAN4S9b/yp2PT+z6K/2+DrH5zYRzA9b5fhKzR/rr/y2VurbK98O4MM4fTIJOx6tv+YCUZ5QzsKfF4HStqs1X7d5l/Uo0FqACt3on6pe3yl8BoqMm6fduwUEKNvyr5pcENDgT0d73UT8fOCY1CGZ9JWAYXhZgw9pHgANRujtALabzHMngqBkevsE5islwGcLGyvGqXDZ6ukn6B2cYE4Hjtr+S/b60/8d6l0Sa3fVE8DgDursftUoqcfND2avWh6aRryrg26qFooMGwa7/jEq3LtJngDHs8catmY4Ouu2VDJqza8eMAteV3zJnRFeWdOhLgpDpkg1SiK01YCGB7yqrxs06PlHoWznTqGxr27jnoHUO8B9N/JN1bULB+VfsDrfSdCfOzP+7lvzNxtDiAOEXy4M9zvPniosKsvVCWQtte1lpQUBlRXoZ4AObag59XbJEeWbSZIsVl/WITE3spsb6fioFtzH93loWzLCTTsccRi6ebXnxsftzERo4a76b4OiX/GJ5Ea6rJoh5SXKjzN7j7PEeYltvISG1Kj1XzqA0UNqrdBCm4rDOcA6ArU3Gj+9fCslA5KIPhzT1i9rpXhrfXdpvDib2ZqT0MJLEHDjfsxm/JoSYX6/AgzMkLAFcgvFSUkRsQyo8Tvp5ao6TgrkEnUAwyyp9RKIXV5e1JgWJchM+DYt9npabDOP2ZwerS4rDu7fGf1JxGK/FB0DCb5vqrh4IS4Wmr+rptwKwpOg36V541VBcuTPWYymzPiuY4yePFZvdkx/eTEB010A+cSm0wWpkTHQyeIcdnI0MzFiUaSiYEIzSdU2xr/UnHpAls+W5zFleUx5PlucGT1acR6YvCT9SQxOl1DcWnvtyrmzX1VW3r7Ef6acAIiD1NmBaXZLpFUUHJXlMmQFHDpFPrsrM3rxlvAFTFKmG5yUe9ScFjVA7Hsas6ftzmhT/aDw8z5+WTcvrifrUE92TFfGwUl+Db1fF34qulFhjIAtQdhChEW3ig57qhjekCK+Ps0TpXFN2IHyayaqKhd+aApR/wex7cP/A1zHda8+YC5gAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Interviews art&quot;
+        title=&quot;Interviews art&quot;
+        src=&quot;/static/7229c6b6767ebd76b856c820be1eab46/b9e4f/interviews101.png&quot;
+        srcset=&quot;/static/7229c6b6767ebd76b856c820be1eab46/cf440/interviews101.png 148w,
+/static/7229c6b6767ebd76b856c820be1eab46/d2d38/interviews101.png 295w,
+/static/7229c6b6767ebd76b856c820be1eab46/b9e4f/interviews101.png 590w,
+/static/7229c6b6767ebd76b856c820be1eab46/f9b6a/interviews101.png 885w,
+/static/7229c6b6767ebd76b856c820be1eab46/2d849/interviews101.png 1180w,
+/static/7229c6b6767ebd76b856c820be1eab46/e95bd/interviews101.png 1586w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Interviews can be daunting and nerve wrecking! but after attending these two events, I realised that there’s some common questions asked by many employers with a range of questions, so here’s a few of them (with my answers for some of them).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Common Questions&lt;/strong&gt;
-Here’s the top 5 commonly asked questions during an interview or a speed interview.&lt;/p&gt;
+&lt;h3&gt;Common Questions&lt;/h3&gt;
+&lt;p&gt;Here’s the top 5 commonly asked questions during an interview or a speed interview.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;So can tell me a bit about yourself?&lt;/li&gt;
 &lt;/ol&gt;
@@ -15,18 +38,18 @@ Also framed as:&lt;/li&gt;
 &lt;li&gt;As you know, this is a very competitive role. What are some things that make you an ideal candidate for this role (and what will you bring to this company)?&lt;/li&gt;
 &lt;li&gt;What is your weakness? / Can you tell me a weakness of yours?&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;strong&gt;Technical Questions&lt;/strong&gt;
-Here are some questions based on Computer Science, Software Development and Artificial Intelligence…&lt;/p&gt;
+&lt;h3&gt;Technical Questions&lt;/h3&gt;
+&lt;p&gt;Here are some questions based on Computer Science, Software Development and Artificial Intelligence…&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Can you tell me your favourite/most written programming language? &lt;/li&gt;
 &lt;li&gt;What is Machine Learning?
-followed by
+&lt;em&gt;followed by&lt;/em&gt;
 2.1 What algorithms have you used for machine learning?&lt;/li&gt;
 &lt;li&gt;Can you explain some characteristics of OOP (Object Oriented Programming)?&lt;/li&gt;
 &lt;li&gt;Can you take me through some of the technologies you used in some projects of yours?&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;strong&gt;Some really interesting and fun questions&lt;/strong&gt;
-Here are some questions I really enjoyed answering and thinking about.&lt;/p&gt;
+&lt;h3&gt;Some really interesting and fun questions&lt;/h3&gt;
+&lt;p&gt;Here are some questions I really enjoyed answering and thinking about.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;em&gt;Talking about project&lt;/em&gt; -&gt; follow up: What do you regret about this project?&lt;/li&gt;
 &lt;li&gt;If you were a dinosaur, which one would you be and why?&lt;/li&gt;
