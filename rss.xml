@@ -1,26 +1,40 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[RubberDuckDestroyer]]></title><description><![CDATA[A blog ranting (student) developer life.]]></description><link>https://blog.rubberduckdestroyer.dev</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 27 Sep 2019 07:38:39 GMT</lastBuildDate><item><title><![CDATA[Interview Questions 101]]></title><description><![CDATA[Recently, I had the opportunity to attend speed interviews through the Summer of Tech program. Along with this I also attended SOT’s Mock…]]></description><link>https://blog.rubberduckdestroyer.dev/interviews-101/</link><guid isPermaLink="false">https://blog.rubberduckdestroyer.dev/interviews-101/</guid><pubDate>Tue, 24 Sep 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Recently, I had the opportunity to attend speed interviews through the &lt;a href=&quot;https://summeroftech.co.nz&quot;&gt;Summer of Tech program&lt;/a&gt;. Along with this I also attended SOT’s Mock Interviews event to groom me well for speed interviews…but before that, here’s some cover art I drew for this!
-&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[RubberDuckDestroyer]]></title><description><![CDATA[A blog ranting (student) developer life.]]></description><link>https://blog.rubberduckdestroyer.dev</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 01 Apr 2020 10:28:25 GMT</lastBuildDate><item><title><![CDATA[Always backup]]></title><description><![CDATA[As a developer, mistakes happen and they will happen. I cannot stress this enough. The lesson of the day is Don’t forget the dev branch! Yes…]]></description><link>https://blog.rubberduckdestroyer.dev/oh-and-backup/</link><guid isPermaLink="false">https://blog.rubberduckdestroyer.dev/oh-and-backup/</guid><pubDate>Sun, 29 Mar 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;As a developer, &lt;strong&gt;mistakes happen&lt;/strong&gt; and they will happen. I cannot stress this enough.&lt;/p&gt;
+&lt;p&gt;The lesson of the day is &lt;strong&gt;Don’t forget the dev branch!&lt;/strong&gt; Yes that’s correct. If you’re new to open source and version control, I advise you not as a professional but as a peer to &lt;em&gt;always&lt;/em&gt; have a ‘dev’ or development branch and do not start coding directly into the master branch!&lt;/p&gt;
+&lt;h3&gt;This is how I blundered up so you don’t have to:&lt;/h3&gt;
+&lt;p&gt;Firstly, since I don’t have a CMS or database for this website, I write all my blogs as a markdown file in the source.
+For this blog, I did not create a seperate dev branch. I also set up a configuration to directly build into the master branch. Guess what, bad idea!   &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://media.giphy.com/media/27EhcDHnlkw1O/giphy.gif&quot; alt=&quot;facepalm&quot;&gt;&lt;/p&gt;
+&lt;p&gt;As soon as I built my files, the master branch or my working directory got replaced by build files that are being served by github pages. This means to get my working directory back, I had to redownload the starter code and re write my blogs. I also put my code into a devellopment branch so that the next time I write a blog, it will push to the master branch without affecting my work.&lt;/p&gt;
+&lt;p&gt;Yes, you can blame this to being quick and lazy in your work. The important thing to remember is that sometimes, mistakes happen and you should learn from them. But what would life be without a few mistakes and blunders throughout the journey…our experiences make us what we are. With that, I’ll end this short blog.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Note: All GIFs are from &lt;a href=&quot;https://giphy.com&quot;&gt;Giphy&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Interview Questions 101]]></title><description><![CDATA[Recently, I had the opportunity to attend speed interviews through the (Summer of Tech program)https://summeroftech.co.nz. Along with this I…]]></description><link>https://blog.rubberduckdestroyer.dev/interviews-101/</link><guid isPermaLink="false">https://blog.rubberduckdestroyer.dev/interviews-101/</guid><pubDate>Tue, 24 Sep 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Recently, I had the opportunity to attend speed interviews through the (Summer of Tech program)[https://summeroftech.co.nz]. Along with this I also attended SOT’s Mock Interviews event to groom me well for speed interviews…but before that, here’s some cover art I drew for this!&lt;/p&gt;
+&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
     &gt;
-      &lt;span
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/0fae52fa342ab43db16abcd3358822af/f9b6a/interviews101.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 85.49810844892812%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAIAAABSJhvpAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAD50lEQVQ4yy2Te0xbVRzHb2IGgzEebWnZwrNAGQxYtgSWsGgQ4jRzzikhRhJYY5Y50TgV0akxm9kqCtoFGZSMR4G+29velrW8HVhue9vS9rZAYOMpxJgOGMoMW8tt7/HesuT7xzm/cz6/8zvfc34Q0NnCwgBCyUqPYYyE0aVB++/jnokR9xKCBbUYFQ8hdoDY9jcArY3U2aAXJOwCqtmQcgaonSuDU3zs8UksULgYyl0FOZvBFjMVt4RUaAjGHhscSybnDpUFtkJh0hkwjK3NfbD08D2gHzAN4S9b/yp2PT+z6K/2+DrH5zYRzA9b5fhKzR/rr/y2VurbK98O4MM4fTIJOx6tv+YCUZ5QzsKfF4HStqs1X7d5l/Uo0FqACt3on6pe3yl8BoqMm6fduwUEKNvyr5pcENDgT0d73UT8fOCY1CGZ9JWAYXhZgw9pHgANRujtALabzHMngqBkevsE5islwGcLGyvGqXDZ6ukn6B2cYE4Hjtr+S/b60/8d6l0Sa3fVE8DgDursftUoqcfND2avWh6aRryrg26qFooMGwa7/jEq3LtJngDHs8catmY4Ouu2VDJqza8eMAteV3zJnRFeWdOhLgpDpkg1SiK01YCGB7yqrxs06PlHoWznTqGxr27jnoHUO8B9N/JN1bULB+VfsDrfSdCfOzP+7lvzNxtDiAOEXy4M9zvPniosKsvVCWQtte1lpQUBlRXoZ4AObag59XbJEeWbSZIsVl/WITE3spsb6fioFtzH93loWzLCTTsccRi6ebXnxsftzERo4a76b4OiX/GJ5Ea6rJoh5SXKjzN7j7PEeYltvISG1Kj1XzqA0UNqrdBCm4rDOcA6ArU3Gj+9fCslA5KIPhzT1i9rpXhrfXdpvDib2ZqT0MJLEHDjfsxm/JoSYX6/AgzMkLAFcgvFSUkRsQyo8Tvp5ao6TgrkEnUAwyyp9RKIXV5e1JgWJchM+DYt9npabDOP2ZwerS4rDu7fGf1JxGK/FB0DCb5vqrh4IS4Wmr+rptwKwpOg36V541VBcuTPWYymzPiuY4yePFZvdkx/eTEB010A+cSm0wWpkTHQyeIcdnI0MzFiUaSiYEIzSdU2xr/UnHpAls+W5zFleUx5PlucGT1acR6YvCT9SQxOl1DcWnvtyrmzX1VW3r7Ef6acAIiD1NmBaXZLpFUUHJXlMmQFHDpFPrsrM3rxlvAFTFKmG5yUe9ScFjVA7Hsas6ftzmhT/aDw8z5+WTcvrifrUE92TFfGwUl+Db1fF34qulFhjIAtQdhChEW3ig57qhjekCK+Ps0TpXFN2IHyayaqKhd+aApR/wex7cP/A1zHda8+YC5gAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 85.53672316384181%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAIAAABSJhvpAAAACXBIWXMAAAsSAAALEgHS3X78AAAD6UlEQVQ4yy1TDUxTVxR+y5Q/pYW2FDWjCgWGlOnQ/bhs2fjJ5gxGxzLZDDPTYbKpbMkM6mJGltkMp4PNgXXMaldoS2lfX1+hhUJtmMW2r6X/ZWQFIQzJ3Iq4LZg6oPSd3YcmX27OvTnn+87PPRjoXaugaNIJCMjWORM6+4TZbRkKDVn8EyQVJyj0niAfe4KOYvz1LuzxnfCANkhrQ4B7psyeD25Fd7qXSqdp0SRdfG/lii0MWgeNO+I49YfBE+n3/W1wIwpslcm72DswHTl0e+IAGEzm/kC5/c4ub6xsMlbnu6v4ZewfPRXTUfLwzEHb7CutM2X34hX3F/2WIKNM69yR2UofpAUSxePT+6HbGSPtZ6jQDGkHwgEa+19Gz6HZhW0xeM4U3RWMbV+GN+YeTvf5MMAD/1rl/jhnbLFQ41E6oi/SA/rbuG8QH0KJxUmUnss4/FvpMrwcmi91RMvj8Nl4dNrkBdyJgTZ8394SiHPDS5tcDwTBJcHCgHJSbohpboIhkCC9cRwZwWFb5KhzvOdGaKrfj4pHvDSJGqbzPxjQji5vCCW4YTrD6soduXZyTtMJes8SPmg/v0d9Sjj2w4kZ0hm4MQrGEE0wYfTqjDAwh7vPXCCpt6YgNxATWbrOzl01AukDU0Bz6t36vWu7GjjSaja55yVbdVXkXDNtDIDezbSZCe71VpY+80LlVr1Y1Xbsp4rybQ81djD8CqRdXLv97Vc3qKuyO/N5ioL1cmGqLC9l5MQnYArSBPMjsPnOQUHOuqR0TFyv+OLY5QwONnmFmO1RGtTHFV/mqN7nKAuzukTcjmKerDhLUpjxtSDlTosU+kK0zolFJOrs7DW8jZi0ZaD+yLlNAkzZ/rGVaJjUdfraGmRlLHk+V1KUebkw8xshWyzktG1OulVb80gc87Zcz+I/yeZi3zaq6g6e5D+FBdtl0DNG68Nxwq2seP7C5lSxMOPsFlbjFtb3hZzWvHXdZTuBHGHStjVJ2Lwn0tKxpsaW6v172SxsXKIDo3+FsCMPze6yi4Lk8/mc5vwMaRFHIeL9XJCue20HoPmj4Lsy07NbN2LJmGhHPoufnMZaO9WOQ68vrh0G86j18OFLOWu6SvhqERdVjgx5Xor1wD4wBtDMMCQSalVIP204XvXm5zU1zUc/+k8zjDRpvQeMwbkfNV0l2aqiTFUJXylCneNdz0udamqFvjDTMEQAvX7oDzMwj9LoJN1LuM0naR5qPm25dFp55HXZ02y5MK2jYP213CRH3YeMP/FozmhRCWqF2WHnyiqYVSGoBbVlTkH+2YHPd/f9/p30Zu17lnf2TXx1ke7xrRbMBP8P7Td137lb5jAAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Interviews art&quot;
-        title=&quot;Interviews art&quot;
-        src=&quot;/static/7229c6b6767ebd76b856c820be1eab46/b9e4f/interviews101.png&quot;
-        srcset=&quot;/static/7229c6b6767ebd76b856c820be1eab46/cf440/interviews101.png 148w,
-/static/7229c6b6767ebd76b856c820be1eab46/d2d38/interviews101.png 295w,
-/static/7229c6b6767ebd76b856c820be1eab46/b9e4f/interviews101.png 590w,
-/static/7229c6b6767ebd76b856c820be1eab46/f9b6a/interviews101.png 885w,
-/static/7229c6b6767ebd76b856c820be1eab46/2d849/interviews101.png 1180w,
-/static/7229c6b6767ebd76b856c820be1eab46/e95bd/interviews101.png 1586w&quot;
+        alt=&quot;interviews-101&quot;
+        title=&quot;interviews-101&quot;
+        src=&quot;/static/0fae52fa342ab43db16abcd3358822af/b9e4f/interviews101.png&quot;
+        srcset=&quot;/static/0fae52fa342ab43db16abcd3358822af/cf440/interviews101.png 148w,
+/static/0fae52fa342ab43db16abcd3358822af/d2d38/interviews101.png 295w,
+/static/0fae52fa342ab43db16abcd3358822af/b9e4f/interviews101.png 590w,
+/static/0fae52fa342ab43db16abcd3358822af/f9b6a/interviews101.png 885w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
         loading=&quot;lazy&quot;
       /&gt;
+  &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Interviews can be daunting and nerve wrecking! but after attending these two events, I realised that there’s some common questions asked by many employers with a range of questions, so here’s a few of them (with my answers for some of them).&lt;/p&gt;
 &lt;h3&gt;Common Questions&lt;/h3&gt;
@@ -33,27 +47,25 @@
 &lt;ol start=&quot;2&quot;&gt;
 &lt;li&gt;Why do you want to work for us?&lt;/li&gt;
 &lt;li&gt;What are some things/extracurricular activities you have done outside of university?&lt;/li&gt;
-&lt;li&gt;What will you bring to this role/to our company?
-Also framed as:&lt;/li&gt;
+&lt;li&gt;What will you bring to this role/to our company? Also framed as:&lt;/li&gt;
 &lt;li&gt;As you know, this is a very competitive role. What are some things that make you an ideal candidate for this role (and what will you bring to this company)?&lt;/li&gt;
 &lt;li&gt;What is your weakness? / Can you tell me a weakness of yours?&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h3&gt;Technical Questions&lt;/h3&gt;
 &lt;p&gt;Here are some questions based on Computer Science, Software Development and Artificial Intelligence…&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;Can you tell me your favourite/most written programming language? &lt;/li&gt;
-&lt;li&gt;What is Machine Learning?
-&lt;em&gt;followed by&lt;/em&gt;
-2.1 What algorithms have you used for machine learning?&lt;/li&gt;
+&lt;li&gt;Can you tell me your favourite/most written programming language?&lt;/li&gt;
+&lt;li&gt;What is Machine Learning? followed by 2.1 What algorithms have you used for machine learning?&lt;/li&gt;
 &lt;li&gt;Can you explain some characteristics of OOP (Object Oriented Programming)?&lt;/li&gt;
 &lt;li&gt;Can you take me through some of the technologies you used in some projects of yours?&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Some really interesting and fun questions&lt;/h3&gt;
+&lt;h3&gt;Some fun and interesting questions&lt;/h3&gt;
 &lt;p&gt;Here are some questions I really enjoyed answering and thinking about.&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;em&gt;Talking about project&lt;/em&gt; -&gt; follow up: What do you regret about this project?&lt;/li&gt;
+&lt;li&gt;Talking about project -&gt; follow up: What do you regret about this project?&lt;/li&gt;
 &lt;li&gt;If you were a dinosaur, which one would you be and why?&lt;/li&gt;
-&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[Hello there]]></title><description><![CDATA[Welcome to RubberDuckDestroyer, a blog on being a (student) developer and taking a twist on Rubbber Duck Debugging. Before we kick off, here…]]></description><link>https://blog.rubberduckdestroyer.dev/hello-world/</link><guid isPermaLink="false">https://blog.rubberduckdestroyer.dev/hello-world/</guid><pubDate>Thu, 05 Sep 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Welcome to RubberDuckDestroyer, a blog on being a (student) developer and taking a twist on &lt;a href=&quot;https://en.wikipedia.org/wiki/Rubber_duck_debugging&quot;&gt;Rubbber Duck Debugging&lt;/a&gt;.&lt;/p&gt;
+&lt;/ol&gt;
+&lt;p&gt;And that’s all for now. Thanks for the read, feel free to reach out to me, and hope this helps you in the future.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello there]]></title><description><![CDATA[Welcome to RubberDuckDestroyer, a blog on being a (student) developer and taking a twist on Rubbber Duck Debugging. Before we kick off, here…]]></description><link>https://blog.rubberduckdestroyer.dev/hello-world/</link><guid isPermaLink="false">https://blog.rubberduckdestroyer.dev/hello-world/</guid><pubDate>Wed, 04 Sep 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Welcome to RubberDuckDestroyer, a blog on being a (student) developer and taking a twist on &lt;a href=&quot;https://en.wikipedia.org/wiki/Rubber_duck_debugging&quot;&gt;Rubbber Duck Debugging&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Before we kick off, here’s rubberduck’s motto :&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Challenge yourself!&lt;/strong&gt;&lt;/p&gt;
