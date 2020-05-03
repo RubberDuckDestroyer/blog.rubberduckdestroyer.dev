@@ -1,7 +1,7 @@
 ---
 title: "Interview Questions 101"
 date: "2019-09-24"
-description: "An introduction to RDD and my blog."
+description: "Some notes on questions I heard at interviews."
 ---
 
 Recently, I had the opportunity to attend speed interviews through the (Summer of Tech program)[https://summeroftech.co.nz]. Along with this I also attended SOT’s Mock Interviews event to groom me well for speed interviews…but before that, here’s some cover art I drew for this!
