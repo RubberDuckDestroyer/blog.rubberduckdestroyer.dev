@@ -4,7 +4,7 @@ date: "2020-04-30"
 description: "Five things I learnt with my WFH experience."
 ---
 
-This month, I've been fortunate to continue my software development internship, working from home for [UI Revolution](https://www.uirevolution.com).
+This month, I've been fortunate to continue my software development internship, working from home for [UiRevolution](https://www.uirevolution.com).
 
 Covid-19 has changed the way humanity lives daily life. With lockdown in New Zealand, my company adapted to start working from home. This past month has taught me a lot and working from home has been an interesting experience. 
 
@@ -19,7 +19,7 @@ It's quite close to a minimalist setup as it can get messy if I start keeping mo
  Coming from a self-proclaimed caffeine addict, a daily supply of some good tea and coffee is essential for the human brain and body. I've found myself grabbing quite a few drinks with and without caffeine, this may not be the best thing to do but it has certainly been helpful for me. Be it Melbourne Breakfast Tea, Hot chocolate, a protein shake, or some instant coffee they're always making the day more delightful!
 
 #### 2. Social distancing ≠ online distancing.
- UI Rev has daily meetings online that have kept the work environment going even at home. Keeping your communication channels open and actively monitoring them is important. Also, don't forget to reach out to work colleagues or friends for a chat. Remember, we're all in this together! 
+ UiRev has daily meetings online that have kept the work environment going even at home. Keeping your communication channels open and actively monitoring them is important. Also, don't forget to reach out to work colleagues or friends for a chat. Remember, we're all in this together! 
 
 #### 3. Find yourself a dedicated workspace/ work area.
  *I cannot emphasize this one enough.* A dedicated workspace will help you keep that area of home just for work. I took the first week experiencing the couch, the dining area, and the desk in my room. Make yourself comfortable as this is important to get the brain juices flowing.
